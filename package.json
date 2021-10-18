@@ -1,0 +1,18 @@
+{
+  "name": "perfect-numbers",
+  "version": "1.0.0",
+  "description": "Program that, given a number n, tells you all the perfect numbers that are smaller than n.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "numbers"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
